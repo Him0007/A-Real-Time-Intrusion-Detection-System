@@ -83,26 +83,26 @@ Class imbalance is handled using **SMOTE (Synthetic Minority Over-sampling Techn
 Real-Time-Intrusion-Detection-System/
 │
 ├── src/
-│ ├── app.py # Real-time IDS engine
-│ ├── flow_features.py # Flow feature extraction
-│ └── train_models.py # Model training pipeline
+│   ├── app.py                 # Real-time IDS engine
+│   ├── flow_features.py       # Flow feature extraction
+│   └── train_models.py        # Model training pipeline
 │
 ├── web/
-│ └── dashboard.html # Real-time monitoring dashboard
+│   └── dashboard.html         # Real-time monitoring dashboard
 │
 ├── trained_models/
-│ ├── *.pkl # Trained ML models
-│ ├── scaler.pkl
-│ └── model_metrics.csv
+│   ├── *.pkl                  # Trained ML models
+│   ├── scaler.pkl             # Feature scaler
+│   └── model_metrics.csv      # Model evaluation metrics
 │
-├── docs/ # Project documentation
+├── docs/                      # Project documentation
 │
-├── screenshots/ # Dashboard images
+├── screenshots/               # Dashboard images
 │
-├── requirements.txt
-├── .gitignore
-├── LICENSE
-└── README.md
+├── requirements.txt           # Python dependencies
+├── .gitignore                 # Git ignore rules
+├── LICENSE                    # Project license
+└── README.md                  # Project documentation
 
 ---
 
