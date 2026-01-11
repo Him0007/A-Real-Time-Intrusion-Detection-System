@@ -106,6 +106,11 @@ Real-Time-Intrusion-Detection-System/
 ```
 ---
 
+## 📜 License
+This project is licensed under the MIT License.
+
+---
+
 ## ⚙️ Installation
 
 ### Prerequisites
