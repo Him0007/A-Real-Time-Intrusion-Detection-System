@@ -80,12 +80,14 @@ Class imbalance is handled using **SMOTE (Synthetic Minority Over-sampling Techn
 ---
 
 ## 📂 Project Structure
+
+```text
 Real-Time-Intrusion-Detection-System/
 │
 ├── src/
 │   ├── app.py                 # Real-time IDS engine
-│   ├── flow_features.py       # Flow feature extraction
-│   └── train_models.py        # Model training pipeline
+│   ├── flow features.py       # Flow feature extraction
+│   └── train models.py        # Model training pipeline
 │
 ├── web/
 │   └── dashboard.html         # Real-time monitoring dashboard
@@ -95,15 +97,13 @@ Real-Time-Intrusion-Detection-System/
 │   ├── scaler.pkl             # Feature scaler
 │   └── model_metrics.csv      # Model evaluation metrics
 │
-├── docs/                      # Project documentation
-│
 ├── screenshots/               # Dashboard images
 │
 ├── requirements.txt           # Python dependencies
 ├── .gitignore                 # Git ignore rules
 ├── LICENSE                    # Project license
 └── README.md                  # Project documentation
-
+```
 ---
 
 ## ⚙️ Installation
