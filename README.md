@@ -1,4 +1,4 @@
-# 🔒 A Real-Time Intrusion Detection System Using High-Performance Ensemble Machine Learning
+#🔒 A Real-Time Intrusion Detection System Using High-Performance Ensemble Machine Learning
 
 ## 📌 Overview
 With the rapid growth of network-based applications, modern networks are increasingly exposed to sophisticated cyber threats such as denial-of-service attacks, probing, brute-force attempts, and malware propagation. Traditional signature-based Intrusion Detection Systems (IDS) struggle to detect unknown or evolving attacks and often fail in real-time environments.
@@ -76,34 +76,7 @@ Class imbalance is handled using **SMOTE (Synthetic Minority Over-sampling Techn
 - LightGBM  
 - HTML, CSS, JavaScript  
 - Ensemble Machine Learning  
-
----
-
-## 📂 Project Structure
-
-```text
-Real-Time-Intrusion-Detection-System/
-│
-├── src/
-│   ├── app.py                 # Real-time IDS engine
-│   ├── flow features.py       # Flow feature extraction
-│   └── train models.py        # Model training pipeline
-│
-├── web/
-│   └── dashboard.html         # Real-time monitoring dashboard
-│
-├── trained_models/
-│   ├── *.pkl                  # Trained ML models
-│   ├── scaler.pkl             # Feature scaler
-│   └── model_metrics.csv      # Model evaluation metrics
-│
-├── screenshots/               # Dashboard images
-│
-├── requirements.txt           # Python dependencies
-├── .gitignore                 # Git ignore rules
-├── LICENSE                    # Project license
-└── README.md                  # Project documentation
-```
+ 
 ---
 
 ## 📜 License
