@@ -1,4 +1,4 @@
-#🔒 A Real-Time Intrusion Detection System Using High-Performance Ensemble Machine Learning
+# 🔒 A Real-Time Intrusion Detection System Using High-Performance Ensemble Machine Learning
 
 ## 📌 Overview
 With the rapid growth of network-based applications, modern networks are increasingly exposed to sophisticated cyber threats such as denial-of-service attacks, probing, brute-force attempts, and malware propagation. Traditional signature-based Intrusion Detection Systems (IDS) struggle to detect unknown or evolving attacks and often fail in real-time environments.
