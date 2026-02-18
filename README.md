@@ -92,6 +92,6 @@ This project is licensed under the MIT License.
 
 ### Steps
 ```bash
-git clone https://github.com/your-username/real-time-intrusion-detection-system.git
+git clone https://github.com/him0007/real-time-intrusion-detection-system.git
 cd real-time-intrusion-detection-system
 pip install -r requirements.txt
